@@ -14,6 +14,9 @@ This is a detailed description of the webpage giving as much detail as possible
 * place to list
 * setup instructions
 
+## Link to GitHub Page
+https://ajwickham.github.io/Tracy_Island
+
 Leave nothing to chance
 
 ## Known Bugs
